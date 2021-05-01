@@ -6,7 +6,7 @@ public class DatosEstudiante extends javax.swing.JFrame {
     public DatosEstudiante() {
         this.setResizable(false);
         this.setDefaultCloseOperation(DISPOSE_ON_CLOSE);
-        initComponents(); 
+        initComponents();  
     }
 
     @SuppressWarnings("unchecked")
